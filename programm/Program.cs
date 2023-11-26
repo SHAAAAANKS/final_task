@@ -32,6 +32,7 @@ void PrintArray (string[] array)
 }
 
 
+// пример массива строк для проверки
 string[] example = new string[] {"киборг","НЛО","хлеб","ок","гоу","флекс"};
 
 PrintArray(OnlyLessThanThreeStrings(example));
